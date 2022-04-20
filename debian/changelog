@@ -1,3 +1,9 @@
+openstack-publicdns (0.0.6-1); urgency=medium
+
+  * fix debian packaging
+
+ -- Seth Tunstall <seth@tunstall.in>  Wed, 20 Apr 2022 14:34:00 +0100
+
 openstack-publicdns (0.0.4~1.gbp62b9e7) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @62b9e78814e801690c978d8d01f4134b45476542 **
